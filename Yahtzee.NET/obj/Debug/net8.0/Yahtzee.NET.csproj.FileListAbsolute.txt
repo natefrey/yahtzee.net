@@ -1,0 +1,15 @@
+C:\Users\natef\source\repos\personal\yahtzee.net\Yahtzee.NET\bin\Debug\net8.0\Yahtzee.NET.exe
+C:\Users\natef\source\repos\personal\yahtzee.net\Yahtzee.NET\bin\Debug\net8.0\Yahtzee.NET.deps.json
+C:\Users\natef\source\repos\personal\yahtzee.net\Yahtzee.NET\bin\Debug\net8.0\Yahtzee.NET.runtimeconfig.json
+C:\Users\natef\source\repos\personal\yahtzee.net\Yahtzee.NET\bin\Debug\net8.0\Yahtzee.NET.dll
+C:\Users\natef\source\repos\personal\yahtzee.net\Yahtzee.NET\bin\Debug\net8.0\Yahtzee.NET.pdb
+C:\Users\natef\source\repos\personal\yahtzee.net\Yahtzee.NET\obj\Debug\net8.0\Yahtzee.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natef\source\repos\personal\yahtzee.net\Yahtzee.NET\obj\Debug\net8.0\Yahtzee.NET.AssemblyInfoInputs.cache
+C:\Users\natef\source\repos\personal\yahtzee.net\Yahtzee.NET\obj\Debug\net8.0\Yahtzee.NET.AssemblyInfo.cs
+C:\Users\natef\source\repos\personal\yahtzee.net\Yahtzee.NET\obj\Debug\net8.0\Yahtzee.NET.csproj.CoreCompileInputs.cache
+C:\Users\natef\source\repos\personal\yahtzee.net\Yahtzee.NET\obj\Debug\net8.0\Yahtzee.NET.sourcelink.json
+C:\Users\natef\source\repos\personal\yahtzee.net\Yahtzee.NET\obj\Debug\net8.0\Yahtzee.NET.dll
+C:\Users\natef\source\repos\personal\yahtzee.net\Yahtzee.NET\obj\Debug\net8.0\refint\Yahtzee.NET.dll
+C:\Users\natef\source\repos\personal\yahtzee.net\Yahtzee.NET\obj\Debug\net8.0\Yahtzee.NET.pdb
+C:\Users\natef\source\repos\personal\yahtzee.net\Yahtzee.NET\obj\Debug\net8.0\Yahtzee.NET.genruntimeconfig.cache
+C:\Users\natef\source\repos\personal\yahtzee.net\Yahtzee.NET\obj\Debug\net8.0\ref\Yahtzee.NET.dll
